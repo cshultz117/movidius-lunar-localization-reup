@@ -1,5 +1,5 @@
-# Republish
-This repository is a republication of a repository created during a yearlong Bachelor's capstone project at Oregon State University
+# Republication
+This repository is a republication of a repository created during a year long Bachelor's capstone project at Oregon State University
 Team members in this project were: Caleb Shultz, Colin Murphy, and Calvin Bui
 
 # Movidius Lunar Localization
